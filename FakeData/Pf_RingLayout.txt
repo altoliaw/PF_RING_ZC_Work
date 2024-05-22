@@ -1,0 +1,6 @@
+=========================
+Absolute Stats: [814'567 pkts total][573'575 pkts dropped][70.4% dropped]
+[240'992 pkts rcvd][60'606'173 bytes rcvd][240'954.41 pkt/sec][484.77 Mbit/sec]
+=========================
+Actual Stats: [126'484 pkts rcvd][1'000.15 ms][126'464.27 pps][0.26 Gbps]
+=========================

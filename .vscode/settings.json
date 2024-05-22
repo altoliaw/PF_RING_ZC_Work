@@ -1,0 +1,33 @@
+{
+    "files.associations": {
+        "test_base64.h": "c",
+        "base64.h": "c",
+        "parsesqlstmt.h": "c",
+        "test_prasecomment.h": "c",
+        "mainheader.h": "c",
+        "test_parsecomment.h": "c",
+        "test_parsejsoncomment.h": "c",
+        "test_libstack.h": "c",
+        "string.h": "c",
+        "shm.h": "c",
+        "ipc.h": "c",
+        "libqueuingmachine.h": "c",
+        "test_libqueuingmachine.h": "c",
+        "libstack.h": "c",
+        "debugfileinclusion.h": "c",
+        "libpfringpacketlost.h": "c",
+        "test_libpfringpacketlost.h": "c",
+        "test_libfilesystem.h": "c",
+        "libfilesystem.h": "c",
+        "dirent.h": "c",
+        "regex.h": "c"
+    },
+    "cSpell.ignoreWords": [
+        "Cmocka",
+        "Pfring",
+        "dirnet",
+        "pfcount"
+    ],
+    "C_Cpp.errorSquiggles": "disabled",
+    "C_Cpp.default.compilerPath": "C:\\msys64\\usr\\bin\\gcc.exe"
+}
